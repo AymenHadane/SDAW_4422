@@ -12,7 +12,7 @@
 
 3. Abre tu navegador y visita 
 http://localhost:3000 
-## Algunos conflictos encontrados
+### Algunos conflictos encontrados
 
 Dificultad para saber que comandos utilizar en git y en que orden
 
