@@ -26,5 +26,8 @@ Dificultades a la hora de realizar el comando revert
 
 Problemas a la hora de crear los pull request y el orden
 
+### Aymen Hadane El Mouadan
+
+
 
 
