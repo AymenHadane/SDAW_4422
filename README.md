@@ -1,32 +1,13 @@
-## 🚀 Requisitos
-- Node.js instalado
+## Información técnica añadida desde rama 1
+En esta sección se describen los principales comandos de Git
+utilizados durante la práctica:
+- git init: Iniciar la consola GIT en un repositorio local
+- git add: Añadir los archivos del repositorio
+- git commit: Guardar los archivos cambiados o la nueva informacion
+- git branch: Crear nueva ramas
+- git merge: Fusionar las ramas
+- git push: Subir la informacion guardada al repositorio digital
 
-## ▶️ Pasos para levantar el servidor
-
-1. Instala las dependencias del proyecto:
-   ```bash
-   npm install
-
-2. Arranca el servidor
-   node server.js
-
-3. Abre tu navegador y visita 
-http://localhost:3000 
-### Algunos conflictos encontrados
-
-Dificultad para saber que comandos utilizar en git y en que orden
-
-Problemas al conectar con git y saber realizar bien los commits
-
-Errores con ciertos comandos que no he sabido utilizar bien 
-
-Seguir bien el orden de comandos que se debe utilizar
-
-Dificultades a la hora de realizar el comando revert
-
-Problemas a la hora de crear los pull request y el orden
-
-### Aymen Hadane El Mouadan
 
 
 
